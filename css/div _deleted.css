@@ -1,0 +1,194 @@
+/*
+	black:	#121212;
+	grey_1:	#181818;
+	grey_2:	#282828;
+	grey_3:	#333333;
+	grey_4:	#A0A0A0;
+	white:	#FFFFFF;
+	green:	#1DB954;
+*/
+
+.title_deleted {
+	background-color: #181818;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    padding: 20%;
+    transform: translate(-50%, -50%);
+}
+
+div.login {
+	display: table;
+	background-color: #181818;
+	width: 40%;
+	margin: 10%;
+	padding: 10%;
+}
+
+div.parent {
+	background-color: yellow;
+	max-width: 100%;
+	margin: 10px;
+}
+
+div.sidemenu {
+	background-color: pink;
+	float: left;
+	margin-right: 10px;
+	padding: 10px;
+	width: 15%;
+	height: 100%;
+	overflow: hidden;
+}
+
+div.container {
+	background-color: lightgreen;
+	width: 80%;
+	overflow: hidden;
+}
+
+div.box {
+	background-color: skyblue;
+	color:	#FFFFFF;
+	padding: 10px;	
+}
+
+#header {
+	margin-bottom: 10px;
+}
+
+#body {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#footer {
+	margin-top: 10px;
+}
+
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.header {
+	background-color: #181818;
+	padding: 1%;
+	margin-bottom: 1%;
+	align-content: center;
+}
+
+.links {
+	background-color: #181818;
+	width: 97%;
+	padding: 1%;.
+	margin-bottom: 1%;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.main {
+	background-color: #181818;
+	width: 97%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	text-align: left;
+}
+
+.main_center {
+	background-color: #181818;
+	width: 97%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	align-content: center;
+}
+
+.box_deleted {
+	background-color: #282828;
+	width: 97%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	color: white;
+	text-align: left;
+}
+
+.box_center {
+	background-color: #282828;
+	width: 97%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	align-content: center;
+}
+
+.box_center:table {
+	
+}
+
+.player {
+	background-color: #282828;
+	width: 97%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	color: white;
+	text-align: left;
+}
+
+.form {
+	background-color: #181818;
+	width: 97%;
+	padding: 1%;
+	margin-bottom: 1%;
+	align-content: center;
+}
+
+.footer {
+	background-color: #181818;
+	position: fixed;
+	bottom: 0%;
+	width: 100%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.footer_space {
+	background-color: #121212;
+	color: #121212;
+	width: 100%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.message {
+	background-color: #282828;
+	width: 97%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 1%;
+	color: white;
+	text-align: left;
+}
+
+.sidemenu_deleted {
+	background-color: #181818;
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	height: 100%;
+}

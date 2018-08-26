@@ -1,0 +1,7 @@
+BUGS:
+- uploading profile pic
+- uploading song
+- not in the artist table when an artist
+- artist name doesn't display in edit profile (when there's a space)
+- adding to playlist sometimes work
+- uploading songs and albums are confusings

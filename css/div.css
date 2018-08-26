@@ -1,0 +1,68 @@
+/*
+	black:	#121212;
+	grey_1:	#181818;
+	grey_2:	#282828;
+	grey_3:	#333333;
+	grey_4:	#A0A0A0;
+	white:	#FFFFFF;
+	green:	#1DB954;
+*/
+
+div.login {
+	display: table;
+	background-color: #282828;
+	width: 40%;
+	margin: 5%;
+	padding: 5%;
+}
+
+div.parent {
+	width: 100%;
+	max-width: 900px;
+	margin: 10px;
+}
+
+div.sidemenu {
+	background-color: #282828;
+	float: left;
+	padding: 10px;
+	width: 15%;
+}
+
+div.container {
+	width: 80%;
+	overflow: hidden;
+}
+
+div.box {
+	background-color: #282828;
+	color:	#FFFFFF;
+	padding: 10px;
+}
+
+#header {
+	margin-bottom: 10px;
+}
+
+#body {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#footer {
+	margin-top: 10px;
+}
+
+#title {
+	font-size: 2em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.player {
+	background-color: #282828;
+	position: fixed;
+	bottom: 0;
+	padding: 1%;
+	width: 98%;
+}
